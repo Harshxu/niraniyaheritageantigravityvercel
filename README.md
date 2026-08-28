@@ -1,16 +1,32 @@
-# React + Vite
+# 🗿 Niraniya Heritage (Vercel Edition) — Cinematic Heritage Showcase
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![Vercel Deployment](https://img.shields.io/badge/Deployed_on-Vercel-black?logo=vercel)](https://vercel.com/)
+[![React 19](https://img.shields.io/badge/React-19-61DAFB?logo=react)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite)](https://vitejs.dev/)
+[![Framer Motion](https://img.shields.io/badge/Framer_Motion-12-EA4C89?logo=framer)](https://www.framer.com/motion/)
 
-Currently, two official plugins are available:
+> Production-optimized deployment branch of **Niraniya Heritage**, featuring serverless optimization, edge asset caching, cinematic smooth transitions, fire-ash ambient effects, and stone sculpture exhibits.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🌟 Highlights
+- **Vercel Optimized**: Configured for instant global edge CDN delivery and zero-latency asset streaming.
+- **Interactive FX**: FireAsh canvas, custom reactive pointer, and preloader animations.
+- **Rich Catalog**: High-resolution showcases of handcrafted deities and monumental stone carvings.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
+- **Core**: React 19, Vite 8, React Router 7
+- **Motion & FX**: Framer Motion 12, Lucide Icons, Custom Particle Simulators
+- **Platform**: Vercel Edge Network
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Local Development
+```bash
+git clone https://github.com/Harshxu/niraniyaheritageantigravityvercel.git
+cd niraniyaheritageantigravityvercel
+npm install
+npm run dev
+```
